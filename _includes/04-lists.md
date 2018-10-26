@@ -1,5 +1,5 @@
-# running
-# swimming
-# rowing
-  # indoor
-  # outdoor
+* running
+* swimming
+* rowing
+  - indoor
+  - outdoor
